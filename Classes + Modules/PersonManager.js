@@ -20,6 +20,7 @@ class PersonManager {
 }
 
 const _manager = new PersonManager();
-_manager.printPersonNames();
 
+/* Output: John, Jenny */
+_manager.printPersonNames();
 
